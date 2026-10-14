@@ -1,3 +1,4 @@
+<img width="930" height="679" alt="Screenshot 2026-10-14 at 21 00 42" src="https://github.com/user-attachments/assets/22bca8c6-b5e8-4787-8072-82a47c2dc706" />
 # 🎯 AI Resume-Job Matcher
 
 Upload a resume (PDF), paste a job description, and get an explainable **fit score**, matched skills, and a **skill-gap report**.
